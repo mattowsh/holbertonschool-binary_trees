@@ -13,8 +13,6 @@
 
 ## Authors
 [Belén Matto](https://www.linkedin.com/in/mattobelen/) 
-[Camila Mauro](AÑADIR LINKEDIN)  
-[Facundo Blanco](AÑADIR LINKEDIN)
-[Facundo San Andre](AÑADIR LINKEDIN)
+[Facundo Blanco](https://www.linkedin.com/in/facundo-blanco-0534ba229/)
 
 Montevideo, Uruguay.
