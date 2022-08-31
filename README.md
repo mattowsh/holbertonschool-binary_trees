@@ -12,7 +12,7 @@
 - What is a complete, a full, a perfect, a balanced binary tree
 
 ## Authors
-[Belén Matto](https://www.linkedin.com/in/mattobelen/) 
-[Camila Mauro](LINKEDIN PENDING)
+[Belén Matto](https://www.linkedin.com/in/mattobelen/)  
+[Facundo Blanco](https://www.linkedin.com/in/facundo-blanco-0534ba229/)
 
 Montevideo, Uruguay.
