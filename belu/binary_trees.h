@@ -29,5 +29,6 @@ typedef struct binary_tree_s heap_t;
 
 /* functions */
 void binary_tree_print(const binary_tree_t *);
+size_t binary_tree_height(const binary_tree_t *tree);
 
 #endif
