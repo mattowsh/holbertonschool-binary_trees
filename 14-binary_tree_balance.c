@@ -9,7 +9,7 @@
 
 int binary_tree_balance(const binary_tree_t *tree)
 {
-	int qty_level = 0;
+	int qty_level = 1;
 
 	if (!tree)
 		return (0);
@@ -36,11 +36,9 @@ int balance(int qty_level, const binary_tree_t *tree)
 		right = balance(qty_level + 1, tree->right);
 
 	if (left > right)
-		result = left;
+		result = left + 1;
 	else
-		result = right;
+		result = right + 1;
 
-	if (qty_level > 0)
-		result++;
 	return (result);
 }
