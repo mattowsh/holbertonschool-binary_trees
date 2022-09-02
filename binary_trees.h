@@ -60,5 +60,6 @@ int _pow(int base, int power);
 int _binary_tree_height(const binary_tree_t *tree);
 int _rec_bin_tree_height(int depth, const binary_tree_t *tree);
 binary_tree_t *binary_tree_sibling(binary_tree_t *node);
+binary_tree_t *binary_tree_uncle(binary_tree_t *node);
 
 #endif
