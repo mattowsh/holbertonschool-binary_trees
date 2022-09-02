@@ -53,5 +53,11 @@ int binary_tree_balance(const binary_tree_t *tree);
 int balance(int qty_level, const binary_tree_t *tree);
 int binary_tree_is_full(const binary_tree_t *tree);
 int rec_is_full(int is_full, const binary_tree_t *tree);
+int binary_tree_is_perfect(const binary_tree_t *tree);
+int _rec_bin_tree_leaves(int qty_leaves, const binary_tree_t *tree);
+int _binary_tree_leaves(const binary_tree_t *tree);
+int _pow(int base, int power);
+int _binary_tree_height(const binary_tree_t *tree);
+int _rec_bin_tree_height(int depth, const binary_tree_t *tree);
 
 #endif
