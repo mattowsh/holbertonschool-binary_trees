@@ -51,5 +51,7 @@ size_t binary_tree_nodes(const binary_tree_t *tree);
 size_t rec_bin_tree_nodes(size_t qty_nodes, const binary_tree_t *tree);
 int binary_tree_balance(const binary_tree_t *tree);
 int balance(int qty_level, const binary_tree_t *tree);
+int binary_tree_is_full(const binary_tree_t *tree);
+int rec_is_full(int is_full, const binary_tree_t *tree);
 
 #endif
