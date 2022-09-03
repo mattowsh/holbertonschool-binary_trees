@@ -13,11 +13,26 @@ Binary Tree node contains the following parts:
 In this project, we used too a **pointer to the parent node**.
 <div align="center">
 
-ADD IMAGE
+![image](https://user-images.githubusercontent.com/103126719/188250629-b8a56af4-7966-4c2d-9ea3-1345f7bbff6e.png)
 
 </div>
 
 ## Types of binary trees
+- **FULL**: binary tree that each node must contain either 0 or 2 children
+
+- **COMPLETE**: binary tree in which all the nodes are completely filled except the last level (leaf nodes). Also, in the last level, all the nodes must be as left as possible
+
+- **PERFECT**: binary tree that all the nodes have 2 children, and all the leaf nodes are at the same level
+
+- **DEGENERATE**: binary tree in which all the internal nodes have only one children. Can be right-skewed or left-skewed in function to the children nodes existence
+
+- **BALANCED**: binary tree in which the height of the left subtree and right subtree of any node does not differ by more than 1 and both the left and right subtree are also height balanced
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/103126719/188251625-f42decce-1f2d-4dc2-b26a-5498206391fc.png)
+
+</div>
 
 ## Learning Objectives
 - What is a binary tree
